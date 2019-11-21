@@ -1,1 +1,3 @@
 przykładowa treść4
+pier.txt
+abc
